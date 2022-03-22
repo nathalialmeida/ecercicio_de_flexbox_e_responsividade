@@ -1,1 +1,1 @@
-# ecercicio_de_flexbox_e_responsividade
+# exercicio_de_flexbox_e_responsividade
